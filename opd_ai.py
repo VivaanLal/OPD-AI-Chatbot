@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-OPD ONE BUTTON AI SCANNER — FREEZE-PROOF VERSION
-Clean GUI • ONE SCAN BUTTON • Background GPT thread • Correct image upload
-"""
 
 import sys, io, cv2, numpy as np, traceback, base64, threading
 from PIL import Image
